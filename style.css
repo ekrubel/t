@@ -1,0 +1,39 @@
+body{
+	background: #0A152B ;
+	color: #fff ;
+}
+.container {
+	width: 90% ;
+	margin: auto;
+}
+.footer-content hr {
+	margin-top: 30px ;
+	color: #ff0000 ;
+}
+.footer-content ul {
+	margin: auto;
+	text-decoration: none;
+	margin-top: 27px;
+	font-size: 20px ;
+}
+.footer-content ul li {
+	display: inline-block;
+
+}
+.footer-content  img {
+	width: 100px ;
+	height: 100px ;
+	float: left;
+	border: 5px solid #fff ;
+}
+.footer-content ul li p {
+	padding: 0px 200px 0px 150px ;
+}
+.footer-content a {
+	text-decoration: none ;
+	color: #fff ;
+	padding: 0px 20px 0px 0px ;
+	font-weight: 600 ;
+	font-size: 18px ;
+	
+}
